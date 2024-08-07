@@ -1,0 +1,6 @@
+@ConcentradorSysMenu_HostAddress = http://localhost:5085
+
+GET {{ConcentradorSysMenu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
